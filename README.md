@@ -3,3 +3,5 @@
 ## Assignment 6
 
 ![Assignment 6](Assignment%206/Assignment%206.png "Assignment 6")
+
+## [Assignment 7](https://github.com/phonglu-miu-edu/CS425-SE-Assignment7){:target="_blank" rel="noopener"}
